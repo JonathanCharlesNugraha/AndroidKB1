@@ -60,8 +60,20 @@
         app:layout_constraintWidth_max="364dp"
         android:layout_marginStart="32dp" />
 
-
-
+    <EditText
+        android:id="@+id/searchEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/oval_background"
+        android:drawableEnd="@drawable/search"
+        android:hint="Search your destination"
+        android:padding="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="243dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
