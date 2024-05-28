@@ -333,7 +333,7 @@
             android:layout_marginStart="202dp"
             android:layout_marginTop="445dp"
             android:elevation="4dp"
-            android:text="Muaya Beach"
+            android:text="Sanur Beach"
             android:textColor="@color/black"
             android:textSize="10sp"
             android:textStyle="bold"
